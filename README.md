@@ -4,7 +4,7 @@
 
 The **Office Management System** is a Spring Boot–based RESTful web application that provides APIs to manage office details stored in a MySQL database. The project demonstrates backend development concepts such as REST API design, CRUD operations, Spring Data JPA, and database integration.
 
-This project is developed as part of learning **Spring Boot REST APIs** and is suitable for **fresher / MCA / entry-level Java developer** profiles.
+This project is developed as part of learning **Spring Boot REST APIs** and is suitable for **fresher / entry-level Java developer** profiles.
 
 ---
 
@@ -187,16 +187,6 @@ mvn spring-boot:run
   * Update Office
   * Delete Office
   * Count Offices by Country
-
----
-
-## 📌 Future Enhancements
-
-* Input validation using `@Valid`
-* Global exception handling
-* Swagger API documentation
-* Pagination and sorting
-* Authentication and authorization
 
 ---
 
