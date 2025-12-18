@@ -197,13 +197,3 @@ MCA | Java & Spring Boot Developer
 GitHub: [https://github.com/Anurag8402](https://github.com/Anurag8402)
 
 ---
-
-## ⭐ Recruiter Note
-
-This project demonstrates:
-
-* Spring Boot REST API fundamentals
-* Proper layered architecture (Controller, Service, Repository)
-* MySQL database integration using JPA
-* Real-world CRUD and update operations
-
