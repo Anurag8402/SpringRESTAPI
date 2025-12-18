@@ -207,4 +207,3 @@ This project demonstrates:
 * MySQL database integration using JPA
 * Real-world CRUD and update operations
 
-✔ Suitable for fresher-level backend roles
